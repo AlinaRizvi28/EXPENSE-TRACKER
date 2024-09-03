@@ -12,21 +12,24 @@ Built with the latest Next.js and TypeScript, Finan Smart is an advanced finance
 Next.js,TypeScript, OpenAI API, Tailwind CSS
 
 ## 1
-![image](https://github.com/user-attachments/assets/434c3184-04dc-49c9-ba81-0b5bc42f5188)
+![image](https://github.com/user-attachments/assets/b5db6357-14d0-40a2-b224-502177dac74b)
+
 
 
 
 
 
 ## 2
-![image](https://github.com/user-attachments/assets/4adbb4ca-cf32-4bba-9231-05fbf3ae3fb1)
+![image](https://github.com/user-attachments/assets/dd4d6a7d-54b8-4935-a2e6-6172d1a8c1ea)
+
 
 
 
 
 
 ## 3
-![Frame 18](https://github.com/user-attachments/assets/de0c7a9f-cb1a-482a-984f-5855a542f99c)
+![Frame 18](https://github.com/user-attachments/assets/2a2f4603-e4a9-4b64-838a-5f77d6a1bfa1)
+
 
 
 
@@ -35,7 +38,7 @@ Next.js,TypeScript, OpenAI API, Tailwind CSS
 
 
 ## 4
-![image](https://github.com/user-attachments/assets/9e59ff8e-a966-48ba-9f99-2c795d172fb2)
+![image](https://github.com/user-attachments/assets/e641db78-50c6-4148-a3b0-b50c4f5bfb43)
 
 
 
